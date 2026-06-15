@@ -8,3 +8,5 @@ index_files/
 
 # Also don't push data
 data/
+
+**/*.quarto_ipynb
