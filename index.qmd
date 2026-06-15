@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-Welcome to the training course in systematic conservation planning with the [prioritzr](https://prioritizr.net/ "Website of the prioritzr package"). This training course was originally held at the [2024 European Congress of Conservation biology](https://eccb2024.eu/) in Bologna, although the materials found here will be preserved even after the conference and be openly available to everyone.
+Welcome to the training course in systematic conservation planning with the [prioritzr](https://prioritizr.net/ "Website of the prioritzr package"). This training course was originally held at the [2024 European Congress of Conservation biology](https://eccb26leiden.eu/) in Leiden, although the materials found here will be preserved even after the conference and be openly available to everyone.
 
 ## What you will learn
 
